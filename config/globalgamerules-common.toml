@@ -14,7 +14,7 @@
 	#Whether entities that are not mobs should have drops
 	do_entity_drops = true
 	#Whether fire should spread and naturally extinguish
-	do_fire_tick = false
+	do_fire_tick = true
 	#Players respawn immediately without showing the death screen
 	do_immediate_respawn = false
 	#Whether phantoms can spawn in the nighttime
@@ -26,7 +26,7 @@
 	#Whether mobs should naturally spawn. Does not affect monster spawners
 	do_mob_spawning = true
 	#Whether patrols can spawn
-	do_patrol_spawning = false
+	do_patrol_spawning = true
 	#Whether blocks should have drops
 	do_tile_drops = true
 	#Whether wandering traders can spawn
