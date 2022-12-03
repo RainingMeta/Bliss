@@ -584,14 +584,14 @@
 	Permafrost = true
 	"New Stone Types" = true
 	"Nether Obsidian Spikes" = true
-	"Monster Box" = false
+	"Monster Box" = true
 	"Glimmering Weald" = true
 	"Fairy Rings" = true
 	Corundum = true
 	"Chorus Vegetation" = true
 	"Blossom Trees" = true
 	"Big Stone Clusters" = true
-	"Big Dungeon" = false
+	"Big Dungeon" = true
 	"Azalea Wood" = true
 	"No More Lava Pockets" = true
 
