@@ -715,3 +715,9 @@ i(<item:biomesoplenty:black_sand>, "Can be generated renewably by placing Black 
 i(<item:biomesoplenty:orange_sand>, "Can be generated renewably by placing Orange Sandstone at the top of a bubble column.");
 i(<item:biomesoplenty:white_sand>, "Can be generated renewably by placing White Sandstone at the top of a bubble column.");
 i(<item:minecraft:clay>, "Can be gotten by dehydrating a Mud block via placing Pointed Dripstone under it.");
+
+s = "Can be found in the Spider Nest biome underground.";
+i(<item:biomesoplenty:spider_egg>, s);
+i(<item:biomesoplenty:stringy_cobweb>, s);
+i(<item:biomesoplenty:hanging_cobweb>, s);
+i(<item:biomesoplenty:webbing>, s);
