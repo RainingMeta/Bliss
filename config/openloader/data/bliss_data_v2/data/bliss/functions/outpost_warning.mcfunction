@@ -1,1 +1,0 @@
-tellraw @p {"text":"Warning: Outposts are dangerous. Pillagers can attack you here.","color":"red"}

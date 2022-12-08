@@ -1,1 +1,0 @@
-tellraw @p {"text":"Warning: Bastions are dangerous. Piglin Brutes can attack you here.","color":"red"}
