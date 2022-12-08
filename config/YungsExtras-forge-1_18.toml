@@ -90,10 +90,10 @@
 			"Ruins Spawn Rate (Small)" = 1000
 			# Determines the spawn rate of flame outposts.
 			# Default: 700
-			"Flame Outpost Spawn Rate" = 700
+			"Flame Outpost Spawn Rate" = 99999
 			# Determines the spawn rate of abandoned vacation spots.
 			# Default: 1000
-			"Abandoned Vacation Spot Spawn Rate" = 1000
+			"Abandoned Vacation Spot Spawn Rate" = 99999
 
 	###########################################################################################################
 	## Settings for swamp structures.
@@ -124,7 +124,7 @@
 		"Swamp Pillar Spawn Rate" = 900
 		# Determines the spawn rate of outhouses.
 		# Default: 3000
-		"Outhouse Spawn Rate" = 3000
+		"Outhouse Spawn Rate" = 99999
 		# Determines the spawn rate of swamp cubbies.
 		# Default: 1000
 		"Swamp Cubby Spawn Rate" = 1000
