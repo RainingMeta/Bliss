@@ -321,6 +321,7 @@ public class DisabledItems {
 		<item:immersive_weathering:weeds>,
 		<item:compatoplenty:cherry_table>,
 		<item:immersive_weathering:ash_layer_block>,
-		<item:immersive_weathering:ash_block>
+		<item:immersive_weathering:ash_block>,
+		<item:buzzier_bees:soul_candle>
 	] as IItemStack[];
 }
