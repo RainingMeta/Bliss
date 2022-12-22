@@ -721,3 +721,5 @@ i(<item:biomesoplenty:spider_egg>, s);
 i(<item:biomesoplenty:stringy_cobweb>, s);
 i(<item:biomesoplenty:hanging_cobweb>, s);
 i(<item:biomesoplenty:webbing>, s);
+
+i(<item:buzzier_bees:four_leaf_clover>, "Can be found in desert temples and jungle temples.");
