@@ -79,7 +79,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 1,
+          "weight": 5,
           "name": "minecraft:rabbit_foot"
         },
         {
