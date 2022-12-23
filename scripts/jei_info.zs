@@ -723,3 +723,6 @@ i(<item:biomesoplenty:hanging_cobweb>, s);
 i(<item:biomesoplenty:webbing>, s);
 
 i(<item:buzzier_bees:four_leaf_clover>, "Can be found in desert temples and jungle temples.");
+i(<item:buzzier_bees:endermite_bottle>, "Endermites can be bottled up.");
+i(<item:buzzier_bees:bee_bottle>, "Bees can be bottled up.");
+i(<item:buzzier_bees:silverfish_bottle>, "Silverfish can be bottled up.");
