@@ -22,3 +22,4 @@ quark:music_disc_chatter
 quark:music_disc_endermosh
 minecraft:music_disc_otherside
 biomesoplenty:music_disc_wanderer
+berry_good:music_disk_fox
