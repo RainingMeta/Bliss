@@ -323,6 +323,7 @@ public class DisabledItems {
 		<item:immersive_weathering:ash_layer_block>,
 		<item:immersive_weathering:ash_block>,
 		<item:buzzier_bees:soul_candle>,
-		<item:incubation:fried_egg>
+		<item:incubation:fried_egg>,
+		<item:farmersdelight:milke_bottle>
 	] as IItemStack[];
 }
