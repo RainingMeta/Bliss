@@ -1,3 +1,5 @@
+import crafttweaker.api.recipe.Replacer;
+
 craftingTable.remove(<item:minecraft:tuff>);
 
 var tag_cooked_eggs = <tag:items:forge:cooked_eggs>;
@@ -5,3 +7,9 @@ tag_cooked_eggs.remove(<item:incubation:fried_egg>);
 
 var tag_seed_pouch = <tag:items:quark:seed_pouch_holdable>;
 tag_seed_pouch.remove(<item:minecraft:sweet_berries>);
+
+var tag_milk = <tag:items:forge:milk>;
+tag_milk.remove(<item:farmersdelight:milk_bottle>);
+
+var brewing = <recipetype:farmersrespite:brewing>;
+Replacer.forTypes(brewing).replace(<item:farmersdelight:milk_bottle>, <item:neapolitan:milk_bottle>).execute();
