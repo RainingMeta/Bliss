@@ -240,5 +240,5 @@ craftingTable.addShaped("feather_hammock",
 craftingTable.addShapeless("da_name_tagy", <item:minecraft:name_tag>, [antique_ink, paper, string_item]);
 
 // Neapolitan Ice Cubes
-CuttingBoard.addRecipeWithSound("ice_cubing", <item:neapolitan:ice_cubes> * 4, <item:minecraft:ice>, pickaxes, glassBreak);
+CuttingBoard.addRecipeWithSound("ice_cubing", <item:neapolitan:ice_cubes> * 9, <item:minecraft:ice>, pickaxes, glassBreak);
 
