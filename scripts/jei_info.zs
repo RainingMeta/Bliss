@@ -728,8 +728,8 @@ i(<item:buzzier_bees:bee_bottle>, "Bees can be bottled up.");
 i(<item:buzzier_bees:silverfish_bottle>, "Silverfish can be bottled up.");
 
 //Arrows
-i(<item:savageandravage:mischief_arrow>, "Summons a friendly creepie when shot.");
+i(<item:savage_and_ravage:mischief_arrow>, "Summons a friendly creepie when shot.");
 i(<item:neapolitan:bananarrow>, "Those shot with these will slip on a banana peel.");
 
 // Savage & Ravage
-i(<item:savageandravage:creeper_spores>, "Drops when a Creeper blows another Creeper up. Try throwing it to make friends!");
+i(<item:savage_and_ravage:creeper_spores>, "Drops when a Creeper blows another Creeper up. Try throwing it to make friends!");
