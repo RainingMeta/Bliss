@@ -733,3 +733,12 @@ i(<item:neapolitan:bananarrow>, "Those shot with these will slip on a banana pee
 
 // Savage & Ravage
 i(<item:savage_and_ravage:creeper_spores>, "Drops when a Creeper blows another Creeper up. Try throwing it to make friends!");
+
+// The section that brings all the boys to the yard
+s = "When drank or fed to a creature or mob, it ";
+i(<item:neapolitan:vanilla_milkshake>, s + "removes all effects.");
+i(<item:neapolitan:chocolate_milkshake>, s + "removes all positive effects.");
+i(<item:neapolitan:strawberry_milkshake>, s + "removes all negative effects.");
+i(<item:neapolitan:banana_milkshake>, s + "swaps all effects with the nearest creature.");
+i(<item:neapolitan:mint_milkshake>, s + "steals all effects from the nearest creature.");
+i(<item:neapolitan:adzuki_milkshake>, s + "gives all effects to the nearest creature.");
