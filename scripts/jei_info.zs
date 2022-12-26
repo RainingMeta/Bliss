@@ -726,3 +726,10 @@ i(<item:buzzier_bees:four_leaf_clover>, "Can be found in desert temples and jung
 i(<item:buzzier_bees:endermite_bottle>, "Endermites can be bottled up.");
 i(<item:buzzier_bees:bee_bottle>, "Bees can be bottled up.");
 i(<item:buzzier_bees:silverfish_bottle>, "Silverfish can be bottled up.");
+
+//Arrows
+i(<item:savageandravage:mischief_arrow>, "Summons a friendly creepie when shot.");
+i(<item:neapolitan:bananarrow>, "Those shot with these will slip on a banana peel.");
+
+// Savage & Ravage
+i(<item:savageandravage:creeper_spores>, "Drops when a Creeper blows another Creeper up. Try throwing it to make friends!");
