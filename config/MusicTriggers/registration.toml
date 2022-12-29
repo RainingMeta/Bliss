@@ -1,4 +1,0 @@
-# Music Discs
-registerdiscs = "false"
-# Client Side Only (Some triggers will not be able to trigger)
-clientsideonly = "false"
