@@ -126,7 +126,6 @@ public class DisabledItems {
 		<item:waystones:magenta_sharestone>,
 		<item:waystones:blue_sharestone>,
 		<item:waystones:warp_dust>,
-		<item:syp:golden_pet_bandage>,
 		<item:quark:potato_crate>,
 		<item:quark:carrot_crate>,
 		<item:quark:beetroot_crate>,
