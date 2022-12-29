@@ -1,2 +1,0 @@
-py ship.py
-pause
