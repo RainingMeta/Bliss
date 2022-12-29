@@ -6,7 +6,6 @@ function i(m as IItemStack, s as string) as void {
 }
 
 i(<item:minecraft:chest>, "If needed, can be acquired by the standard recipe, mixing two or more types of wood.");
-i(<item:minecraft:paper>, "Dying Pet's Notes can be used to revive pets by right clicking on a Copper Block. You can then heal the pet with a Bandage.");
 
 // Backpack
 i(<item:quark:backpack>, "When wearing this, you'll have 27 more inventory slots. You can even dye it to look fancy!");
@@ -561,7 +560,6 @@ i(<item:quark:egg_parrot_green>, s);
 i(<item:quark:egg_parrot_yellow_blue>, s);
 i(<item:quark:egg_parrot_grey>, s);
 
-i(<item:syp:pet_bandage>, "Right click on a dying pet to heal it.");
 i(<item:quark:ancient_tome>, "Can be found on dungeon and stronghold chests. Combine with an enchanted item or book in an anvil to raise its level, up to 1 beyond the max.");
 
 s = "Can be placed and then have other blocks placed inside it, allowing for a combination texture.";
