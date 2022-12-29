@@ -323,6 +323,13 @@ public class DisabledItems {
 		<item:immersive_weathering:ash_block>,
 		<item:buzzier_bees:soul_candle>,
 		<item:incubation:fried_egg>,
-		<item:farmersdelight:milk_bottle>
+		<item:farmersdelight:milk_bottle>,
+		<item:compatoplenty:large_hellbark_boat>,
+		<item:compatoplenty:hellbark_furnace_boat>,
+		<item:compatoplenty:hellbark_chest_boat>,
+		<item:compatoplenty:hellbark_table>,
+		<item:compatoplenty:large_cherry_boat>,
+		<item:compatoplenty:cherry_furnace_boat>,
+		<item:compatoplenty:cherry_chest_boat>
 	] as IItemStack[];
 }
