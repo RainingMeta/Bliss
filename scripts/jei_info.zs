@@ -263,7 +263,6 @@ i(<item:minecraft:string>, "Spiders are removed from this pack, so the best way 
 i(<item:minecraft:feather>, "Chickens sometimes shed their feathers, providing a non-lethal alternative to getting them.");
 i(<item:minecraft:gunpowder>, "All Spider spawners are replaced with Creeper spawners in this pack, so it is possible to make a dropper farm for them.");
 i(<item:minecraft:compass>, "Compasses work in the Nether and End, pointing you to the return portal.");
-i(<item:minecraft:ender_pearl>, "Dream Luck has been applied to Piglin Bartering, tripling the chance you'll get Ender Pearls.");
 i(<item:minecraft:wither_skeleton_skull>, "Can be acquired from Piglin Bartering.");
 i(<item:minecraft:ink_sac>, "Can be acquired at a much more common rate from fishing junk.");
 i(<item:minecraft:glow_ink_sac>, "Can be acquired at an uncommon rate from fishing junk while in a Lush Cave biome.");
