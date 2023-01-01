@@ -740,3 +740,42 @@ i(<item:neapolitan:strawberry_milkshake>, s + "removes all negative effects.");
 i(<item:neapolitan:banana_milkshake>, s + "swaps all effects with the nearest creature.");
 i(<item:neapolitan:mint_milkshake>, s + "steals all effects from the nearest creature.");
 i(<item:neapolitan:adzuki_milkshake>, s + "gives all effects to the nearest creature.");
+
+//Infernal Expansion
+i(<item:infernalexp:music_disc_soul_spunk>, "Is rarely dropped by Embodies, which spawn in Soul Sand Valleys.");
+i(<item:infernalexp:music_disc_flush>, "Is rarely dropped by Glowsquitoes, which spawn in the Glowstone Canyon biome in the Nether.");
+
+s = "Can be found in the Glowstone Canyon biome in the Nether.";
+i(<item:infernalexp:dimstone>, s);
+i(<item:infernalexp:dullstone>, s);
+i(<item:infernalexp:luminous_wart_block>, s);
+i(<item:infernalexp:glowdust_sand>, s);
+i(<item:infernalexp:glowdust>, s);
+i(<item:infernalexp:glowdust_stone>, s);
+i(<item:infernalexp:crumbling_blackstone>, s);
+i(<item:infernalexp:dullthorns>, s);
+i(<item:infernalexp:luminous_fungus>, s);
+
+s = "Can be acquired by using a hoe on the respective block.";
+i(<item:infernalexp:crimson_nylium_path>, s);
+i(<item:infernalexp:warped_nylium_path>, s);
+i(<item:infernalexp:soul_soil_path>, s);
+
+i(<item:infernalexp:infernal_painting>, "Displays different art from the regular one.");
+i(<item:infernalexp:glowcoal>, "Dropped by Glowsquitoes, which can be found in the Glowstone Canyon biome in the Nether.");
+i(<item:infernalexp:glownuggets>, "Dropped by mining Dullstone or Dimstone, which can be found in the Glowstone Canyon biome in the Nether.");
+i(<item:infernalexp:blindsight_tongue>, "Dropped by Blindsights, which can be found in the Glowstone Canyon biome in the Nether.");
+i(<item:infernalexp:moth_dust>, "Dropped by Glow Moths, which can be found in the Glowstone Canyon biome in the Nether.");
+i(<item:infernalexp:molten_gold_cluster>, "Can be acquired through feeding Volines gold items by dropping them. Volines can be found in Nether Wastes and Crimson Forests.");
+i(<item:infernalexp:glowsilk>, "Can be harvested from Glowsilk Cocoons and used to repair items in an anvil.");
+i(<item:infernalexp:glowsilk_cocoon>, "Can be found underground in the Nether, similarly to Ancient Debris, and harvested using a Diamond or Netherite hoe.");
+i(<item:infernalexp:soul_salt_clump>, "Dropped by Embodies, which can be found in Soul Sand Valleys.");
+i(<item:infernalexp:ascus_bomb>, "Dropped by Shroomloins, which can be found in Crimson Forests. Can be thrown to release an Infection cloud. Infection is dangerous and contagious, so be careful.");
+i(<item:infernalexp:glowsilk_bow>, "An upgrade to the standard Bow. Shoots twice as far and tips normal arrows with Luminance. Arrows with Luminance emit light and can be used to light up far away areas.");
+i(<item:infernalexp:blindsight_tongue_whip>, "A melee weapon with higher reach and knockback than usual. Must be charged by right clicking before using.");
+i(<item:infernalexp:shroomlight_fungus>, "Can be found on grown fungi in the Nether, or created by using Bone Meal on a Shroomlight block.");
+i(<item:infernalexp:trapped_glowdust_sand>, "Can be found in the Glowstone Canyone biome in the Nether. Be careful, as it falls when you walk close to it.");
+i(<item:infernalexp:basalt_iron_ore>, "Can be found in the Basalt Deltas biome in the Nether.");
+i(<item:infernalexp:basaltic_magma>, "Can be found in the Basalt Deltas biome in the Nether. Can be used to warm Striders or create a bubble column.");
+i(<item:infernalexp:quartz_glass>, "Can withstand explosions better than regular glass.");
+i(<item:infernalexp:quartz_glass_pane>, "Can withstand explosions better than regular glass.");
