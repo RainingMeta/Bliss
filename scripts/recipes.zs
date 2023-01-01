@@ -242,3 +242,9 @@ craftingTable.addShapeless("da_name_tagy", <item:minecraft:name_tag>, [antique_i
 // Neapolitan Ice Cubes
 CuttingBoard.addRecipeWithSound("ice_cubing", <item:neapolitan:ice_cubes> * 9, <item:minecraft:ice>, pickaxes, glassBreak);
 
+//Harder Ender Eyes
+craftingTable.remove(<item:minecraft:ender_eye>);
+craftingTable.addShapeless("harder_ender_eyes",
+	<item:minecraft:ender_eye>,
+	[<item:minecraft:ender_pearl>, <item:minecraft:blaze_powder>, <item:minecraft:prismarine_crystals>,
+		<item:minecraft:emerald>, <item:minecraft:amethyst_shard>, <item:minecraft:honeycomb>]);
