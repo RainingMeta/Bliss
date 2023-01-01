@@ -330,6 +330,17 @@ public class DisabledItems {
 		<item:compatoplenty:hellbark_table>,
 		<item:compatoplenty:large_cherry_boat>,
 		<item:compatoplenty:cherry_furnace_boat>,
-		<item:compatoplenty:cherry_chest_boat>
+		<item:compatoplenty:cherry_chest_boat>,
+		<item:infernalexp:cooked_hogchop>,
+		<item:infernalexp:raw_hogchop>,
+		<item:infernalexp:luminous_stem>,
+		<item:infernalexp:luminous_hyphae>,
+		<item:infernalexp:stripped_luminous_stem>,
+		<item:infernalexp:stripped_luminous_hyphae>,
+		<item:twigs:smooth_basalt_brick_vertical_slab>,
+		<item:twigs:smooth_basalt_brick_wall>,
+		<item:twigs:smooth_basalt_brick_slab>,
+		<item:twigs:smooth_basalt_brick_stairs>,
+		<item:twigs:smooth_basalt_bricks>
 	] as IItemStack[];
 }
