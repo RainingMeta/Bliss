@@ -250,9 +250,9 @@ craftingTable.addShapeless("harder_ender_eyes",
 		<item:minecraft:emerald>, <item:minecraft:amethyst_shard>, <item:minecraft:honeycomb>]);
 
 // Woodcutting Jungle Post Fix
-var jungle_logs = <tag:items:minecraft:jungle_logs>
-var jungle_planks = <tag:items:forge:planks/jungle>
-var jungle_post = <item:quark:jungle_post>
+var jungle_logs = <tag:items:minecraft:jungle_logs>;
+var jungle_planks = <tag:items:forge:planks/jungle>;
+var jungle_post = <item:quark:jungle_post>;
 Woodcutter.removeRecipe(jungle_post);
 Woodcutter.addRecipe("jungle_posts", jungle_post, jungle_planks);
 Woodcutter.addRecipe("jungle_posts4", jungle_post * 4, jungle_logs);
