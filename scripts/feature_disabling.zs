@@ -11,6 +11,6 @@ tag_seed_pouch.remove(<item:minecraft:sweet_berries>);
 var tag_milk = <tag:items:forge:milk>;
 tag_milk.remove(<item:farmersdelight:milk_bottle>);
 
-var tag_soul_fire_base = <tag:items:minecraft:soul_fire_base_blocks>);
+var tag_soul_fire_base = <tag:items:minecraft:soul_fire_base_blocks>;
 tag_soul_fire_base.remove(<item:nethersdelight:soul_compost>);
 tag_soul_fire_base.remove(<item:nethersdelight:rich_soul_soil>);
