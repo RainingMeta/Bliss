@@ -786,3 +786,11 @@ i(<item:nethersdelight:hoglin_hide>, "Dropped by Hoglins when killed with a Knif
 i(<item:nethersdelight:strider_slice>, "Dropped by Striders when killed with a Knife.");
 i(<item:nethersdelight:propelplant_cane>, "Found in Crimson Forests. Harvest them safely with a Knife. Grow more by planting Propelplant Stems.");
 i(<item:nethersdelight:propelpearl>, "Aquired by shearing a mature Propelplant Stem.");
+
+//Brewin and Chewin
+i(<item:brewinandchewin:keg>, "Can be used to ferment drinks and some foods. For recipes that require a hot or cold environment, place hot (magma, campfires, etc.) or cold (ice, etc.) blocks around the keg.");
+i(<item:brewinandchewin:tankard>, "Used to hold alcoholic drinks.");
+
+s = "To make cheese, you must first make an unripe cheese wheel in a keg and place it down to wait for it to ferment.";
+i(<item:brewinandchewin:flaxen_cheese_wheel>, s);
+i(<item:brewinandchewin:scarlet_cheese_wheel>, s);
