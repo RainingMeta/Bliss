@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "immersive_weathering:frosty_glass_pane",
+    "immersive_weathering:frosty_glass",
+    "quark:permafrost_bricks_wall",
+    "quark:permafrost_wall",
+    "quark:permafrost_bricks_vertical_slab",
+    "quark:permafrost_vertical_slab",
+    "quark:permafrost_bricks_stairs",
+    "quark:permafrost_bricks_slab",
+    "quark:permafrost_bricks",
+    "quark:permafrost_stairs",
+    "quark:permafrost_slab",
+    "quark:permafrost",
+    "immersive_weathering:permafrost"
+  ]
+}
