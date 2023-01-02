@@ -780,9 +780,9 @@ i(<item:infernalexp:quartz_glass>, "Can withstand explosions better than regular
 i(<item:infernalexp:quartz_glass_pane>, "Can withstand explosions better than regular glass.");
 
 // Nether's Delight
-i(<item:nethers_delight:hoglin_loin>, "Dropped by Hoglins.");
-i(<item:nethers_delight:blackstone_stove>, "Serves as heat source for a Cooking Pot.");
-i(<item:nethers_delight:hoglin_hide>, "Dropped by Hoglins when killed with a Knife.");
-i(<item:nethers_delight:strider_slice>, "Dropped by Striders when killed with a Knife.");
-i(<item:nethers_delight:propelplant_cane>, "Found in Crimson Forests. Harvest them safely with a Knife. Grow more by planting Propelplant Stems.");
-i(<item:nethers_delight:propelpearl>, "Aquired by shearing a mature Propelplant Stem.");
+i(<item:nethersdelight:hoglin_loin>, "Dropped by Hoglins.");
+i(<item:nethersdelight:blackstone_stove>, "Serves as heat source for a Cooking Pot.");
+i(<item:nethersdelight:hoglin_hide>, "Dropped by Hoglins when killed with a Knife.");
+i(<item:nethersdelight:strider_slice>, "Dropped by Striders when killed with a Knife.");
+i(<item:nethersdelight:propelplant_cane>, "Found in Crimson Forests. Harvest them safely with a Knife. Grow more by planting Propelplant Stems.");
+i(<item:nethersdelight:propelpearl>, "Aquired by shearing a mature Propelplant Stem.");
