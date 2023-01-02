@@ -778,3 +778,11 @@ i(<item:infernalexp:basalt_iron_ore>, "Can be found in the Basalt Deltas biome i
 i(<item:infernalexp:basaltic_magma>, "Can be found in the Basalt Deltas biome in the Nether. Can be used to warm Striders or create a bubble column.");
 i(<item:infernalexp:quartz_glass>, "Can withstand explosions better than regular glass.");
 i(<item:infernalexp:quartz_glass_pane>, "Can withstand explosions better than regular glass.");
+
+// Nether's Delight
+i(<item:nethers_delight:hoglin_loin>, "Dropped by Hoglins.");
+i(<item:nethers_delight:blackstone_stove>, "Serves as heat source for a Cooking Pot.");
+i(<item:nethers_delight:hoglin_hide>, "Dropped by Hoglins when killed with a Knife.");
+i(<item:nethers_delight:strider_slice>, "Dropped by Striders when killed with a Knife.");
+i(<item:nethers_delight:propelplant_cane>, "Found in Crimson Forests. Harvest them safely with a Knife. Grow more by planting Propelplant Stems.");
+i(<item:nethers_delight:propelpearl>, "Aquired by shearing a mature Propelplant Stem.");
