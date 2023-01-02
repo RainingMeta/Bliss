@@ -341,6 +341,11 @@ public class DisabledItems {
 		<item:twigs:smooth_basalt_brick_wall>,
 		<item:twigs:smooth_basalt_brick_slab>,
 		<item:twigs:smooth_basalt_brick_stairs>,
-		<item:twigs:smooth_basalt_bricks>
+		<item:twigs:smooth_basalt_bricks>,
+		<item:nethersdelight:soul_compost>,
+		<item:nethersdelight:mimicarnation>,
+		<item:nethersdelight:rich_soul_soil>,
+		<item:nethersdelight:warped_fungus_colony>,
+		<item:nethersdelight:crimson_fungus_colony>
 	] as IItemStack[];
 }
