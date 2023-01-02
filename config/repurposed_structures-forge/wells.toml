@@ -6,13 +6,13 @@
 # 1 for wells spawning in every chunk and 10000 for no wells.
 [Wells]
 	#Range: 1 ~ 10000
-	badlandsWellRarityPerChunk = 450
+	badlandsWellRarityPerChunk = 10000
 	#Range: 1 ~ 10000
 	netherWellRarityPerChunk = 10000
 	#Range: 1 ~ 10000
 	snowWellRarityPerChunk = 10000
 	#Range: 1 ~ 10000
-	mossyStoneWellRarityPerChunk = 450
+	mossyStoneWellRarityPerChunk = 10000
 	#Range: 1 ~ 10000
 	forestWellRarityPerChunk = 1000
 	#Range: 1 ~ 10000
