@@ -801,3 +801,5 @@ i(<item:chimes:iron_chimes>, "This can be right clicked to remove your insomnia 
 i(<item:chimes:copper_chimes>, "This can be right clicked to remove your insomnia level without having to sleep.");
 i(<item:chimes:amethyst_chimes>, "This can be right clicked to remove your insomnia level without having to sleep.");
 i(<item:chimes:carved_bamboo_chimes>, "Can be acquired by using an Axe on a Bamboo Wind Chime. This can be right clicked to remove your insomnia level without having to sleep.");
+
+i(<item:advancementframes:advancement_frame>, "Allows you to display one of your Advancements on the wall, floor, or ceiling.");
