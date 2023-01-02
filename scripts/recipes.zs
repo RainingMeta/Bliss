@@ -256,3 +256,16 @@ var jungle_post = <item:quark:jungle_post>;
 Woodcutter.removeRecipe(jungle_post);
 Woodcutter.addRecipe("jungle_posts", jungle_post, jungle_planks);
 Woodcutter.addRecipe("jungle_posts4", jungle_post * 4, jungle_logs);
+
+// Propelplant Torch Recipe Fix
+var propelpearl = <item:nethersdelight:propelpearl>;
+var propelplant_cane = <item:nethersdelight:propelplant_cane>;
+craftingTable.remove(<item:nethersdelight:propelplant_torch>);
+craftingTable.addShaped("propelplant_torch",
+	<item:nethersdelight:propelplant_torch>,
+	[[propelpearl],
+	[propelplant_cane]]);
+	
+//Mimicarnation and Soul Soil Remove
+CuttingBoard.removeRecipe(<item:minecraft:crimson_fungus>);
+CuttingBoard.removeRecipe(<item:minecraft:warped_fungus>);
