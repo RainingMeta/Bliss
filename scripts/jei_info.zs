@@ -794,3 +794,10 @@ i(<item:brewinandchewin:tankard>, "Used to hold alcoholic drinks.");
 s = "To make cheese, you must first make an unripe cheese wheel in a keg and place it down to wait for it to ferment.";
 i(<item:brewinandchewin:flaxen_cheese_wheel>, s);
 i(<item:brewinandchewin:scarlet_cheese_wheel>, s);
+
+// Chimes
+i(<item:chimes:bamboo_chimes>, "This can be right clicked to remove your insomnia level without having to sleep.");
+i(<item:chimes:iron_chimes>, "This can be right clicked to remove your insomnia level without having to sleep.");
+i(<item:chimes:copper_chimes>, "This can be right clicked to remove your insomnia level without having to sleep.");
+i(<item:chimes:amethyst_chimes>, "This can be right clicked to remove your insomnia level without having to sleep.");
+i(<item:chimes:carved_bamboo_chimes>, "Can be acquired by using an Axe on a Bamboo Wind Chime. This can be right clicked to remove your insomnia level without having to sleep.");
