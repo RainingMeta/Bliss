@@ -14,7 +14,7 @@
 	#Range: 1 ~ 10000
 	mossyStoneWellRarityPerChunk = 10000
 	#Range: 1 ~ 10000
-	forestWellRarityPerChunk = 1000
+	forestWellRarityPerChunk = 10000
 	#Range: 1 ~ 10000
 	mushroomWellRarityPerChunk = 10000
 
