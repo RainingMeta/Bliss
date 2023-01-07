@@ -84,7 +84,7 @@
 		#Determines what biomes Glowsquitos will spawn in
 		glowsquitoBiomes = "infernalexp:glowstone_canyon, byg:glowstone_gardens"
 		#Determines what biomes Glowsilk Moths will spawn in
-		glowsilkMothBiomes = "minecraft:crimson_forest, minecraft:basalt_deltas, infernalexp:glowstone_canyon, byg:glowstone_gardens"
+		glowsilkMothBiomes = "infernalexp:glowstone_canyon, byg:glowstone_gardens"
 		#Determines what biomes Blindsights will spawn in
 		blindsightBiomes = "infernalexp:glowstone_canyon, byg:glowstone_gardens"
 		#Determines what biomes Blackstone Dwarfs will spawn in
