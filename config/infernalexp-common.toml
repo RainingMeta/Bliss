@@ -72,23 +72,23 @@
 
 	["Mob Spawning"."Spawnable Biomes"]
 		#Determines what biomes Volines will spawn in
-		volineBiomes = "minecraft:nether_wastes, minecraft:crimson_forest, byg:magma_wastes"
+		volineBiomes = "minecraft:nether_wastes"
 		#Determines what biomes Warpbeetles will spawn in
-		warpbeetleBiomes = "minecraft:warped_forest, byg:warped_desert"
+		warpbeetleBiomes = "minecraft:warped_forest"
 		#Determines what biomes Shroomloins will spawn in
-		shroomloinBiomes = "minecraft:crimson_forest, byg:crimson_gardens, byg:glowstone_gardens, byg:embur_bog, byg:sythian_torrids"
+		shroomloinBiomes = "minecraft:crimson_forest"
 		#Determines what biomes Basalt Giants will spawn in
-		basaltGiantBiomes = "minecraft:basalt_deltas, infernalexp:delta_shores, byg:magma_wastes"
+		basaltGiantBiomes = "minecraft:basalt_deltas, infernalexp:delta_shores"
 		#Determines what biomes Embodies will spawn in
-		embodyBiomes = "minecraft:soul_sand_valley, byg:warped_desert, byg:wailing_garth, byg:withering_woods"
+		embodyBiomes = "minecraft:soul_sand_valley"
 		#Determines what biomes Glowsquitos will spawn in
-		glowsquitoBiomes = "infernalexp:glowstone_canyon, byg:glowstone_gardens"
+		glowsquitoBiomes = "infernalexp:glowstone_canyon"
 		#Determines what biomes Glowsilk Moths will spawn in
-		glowsilkMothBiomes = "infernalexp:glowstone_canyon, byg:glowstone_gardens"
+		glowsilkMothBiomes = "infernalexp:glowstone_canyon"
 		#Determines what biomes Blindsights will spawn in
-		blindsightBiomes = "infernalexp:glowstone_canyon, byg:glowstone_gardens"
+		blindsightBiomes = "infernalexp:glowstone_canyon"
 		#Determines what biomes Blackstone Dwarfs will spawn in
-		blackstoneDwarfBiomes = "infernalexp:glowstone_canyon, byg:magma_wastes"
+		blackstoneDwarfBiomes = "infernalexp:glowstone_canyon"
 
 ["Bonemeal Behaviour"]
 	#Determines if a shroomlight tear will grow when a shroomlight is bonemealed (overrides shroomlightGrowChance)
