@@ -14,3 +14,9 @@ tag_milk.remove(<item:farmersdelight:milk_bottle>);
 var tag_soul_fire_base = <tag:items:minecraft:soul_fire_base_blocks>;
 tag_soul_fire_base.remove(<item:nethersdelight:soul_compost>);
 tag_soul_fire_base.remove(<item:nethersdelight:rich_soul_soil>);
+
+var tag_banana = <tag:items:forge:fruits/banana>;
+tag_banana.remove(<item:alexsmobs:banana>);
+
+var tag_dictionary_ingredient = <tag:items:alexsmobs:animal_dictionary_ingredient>;
+tag_dictionary_ingredient.remove(<item:alexsmobs:dropbear_claw>);
