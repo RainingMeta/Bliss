@@ -858,3 +858,6 @@ i(<item:alexsmobs:pocket_sand>, "Can be used as a longrange weapon, if you're so
 i(<item:alexsmobs:gustmaker>, "When given a redstone signal, sends a sand tornado in the direction it's facing.");
 i(<item:alexsmobs:fedora>, "Do bee do bee doo ba doo");
 i(<item:alexsmobs:capsid>, "Can drop from Enderiophages and used to transport items. Consult an Animal Dictionary for more information.");
+
+i(<item:alexsmobs:music_disc_thime>, "Can be acquired from bartering with Seals. Consult an Animal Dictionary for more information.");
+i(<item:alexsmobs:music_disc_daze>, "Can be acquired by placing any Music Disc inside a Capsid.");
