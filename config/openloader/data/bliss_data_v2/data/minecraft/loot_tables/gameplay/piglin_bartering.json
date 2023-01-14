@@ -6,8 +6,8 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "weight": 10,
-          "name": "minecraft:wither_skeleton_skull"
+          "weight": 5,
+          "name": "alexsmobs:pigshoes"
         },
         {
           "type": "minecraft:item",
