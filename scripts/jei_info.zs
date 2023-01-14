@@ -803,3 +803,58 @@ i(<item:chimes:amethyst_chimes>, "This can be right clicked to remove your insom
 i(<item:chimes:carved_bamboo_chimes>, "Can be acquired by using an Axe on a Bamboo Wind Chime. This can be right clicked to remove your insomnia level without having to sleep.");
 
 i(<item:advancementframes:advancement_frame>, "Allows you to display one of your Advancements on the wall, floor, or ceiling.");
+
+// Alex's Mobs
+s = "Consult an Animal Dictionary for more information.";
+i(<item:alexsmobs:ancient_dart>, s);
+i(<item:alexsmobs:acacia_blossom>, s);
+i(<item:alexsmobs:bear_fur>, s);
+i(<item:alexsmobs:blood_sac>, s);
+i(<item:alexsmobs:bone_serpent_tooth>, s);
+i(<item:alexsmobs:centipede_leg>, s);
+i(<item:alexsmobs:cockroach_ootheca>, s);
+i(<item:alexsmobs:cockroach_wing_fragment>, s);
+i(<item:alexsmobs:crocodile_egg>, s);
+i(<item:alexsmobs:gazelle_horn>, s);
+i(<item:alexsmobs:komodo_spit>, s);
+i(<item:alexsmobs:lobster_tail>, s);
+i(<item:alexsmobs:moose_antler>, s);
+i(<item:alexsmobs:mosquito_larva>, s);
+i(<item:alexsmobs:mosquito_proboscis>, s);
+i(<item:alexsmobs:raccoon_tail>, s);
+i(<item:alexsmobs:rattlesnake_rattle>, s);
+i(<item:alexsmobs:roadrunner_feather>, s);
+i(<item:alexsmobs:soul_heart>, s);
+i(<item:alexsmobs:moose_ribs>, s);
+i(<item:alexsmobs:spiked_scute>, s);
+i(<item:alexsmobs:guster_eye>, s);
+i(<item:alexsmobs:emu_egg>, s);
+i(<item:alexsmobs:emu_feather>, s);
+i(<item:alexsmobs:dropbear_claw>, s);
+i(<item:alexsmobs:kangaroo_meat>, s);
+i(<item:alexsmobs:kangaroo_hide>, s);
+i(<item:alexsmobs:straddlite>, s);
+i(<item:alexsmobs:stradpole_bucket>, s);
+i(<item:alexsmobs:straddleboard>, s);
+i(<item:alexsmobs:gongylidia>, s);
+i(<item:alexsmobs:leafcutter_ant_pupa>, s);
+i(<item:alexsmobs:enderiophage_rocket>, s);
+i(<item:alexsmobs:leafcutter_anthill>, s);
+i(<item:alexsmobs:leafcutter_ant_chamber>, s);
+i(<item:alexsmobs:hummingbird_feeder>, s);
+i(<item:alexsmobs:fish_oil>, s);
+i(<item:alexsmobs:blobfish>, s);
+i(<item:alexsmobs:falconry_glove>, s);
+i(<item:alexsmobs:falconry_hood>, s);
+i(<item:alexsmobs:komodo_spit_bottle>, s);
+i(<item:alexsmobs:poison_bottle>, s);
+i(<item:alexsmobs:maraca>, s);
+i(<item:alexsmobs:sombrero>, s);
+
+i(<item:alexsmobs:crocodile_scute>, "Sourced from Crocodiles, which spawn in Rivers and Swamps. Crocodiles may kill you. Consult an Animal Dictionary for more information.");
+i(<item:alexsmobs:animal_dictionary>, "Contains information on Alex's Mobs.");
+i(<item:alexsmobs:mimicream>, "Drops from Mimicubes near end cities. Consult an Animal Dictionary for more information.");
+i(<item:alexsmobs:pocket_sand>, "Can be used as a longrange weapon, if you're so inclined.");
+i(<item:alexsmobs:gustmaker>, "When given a redstone signal, sends a sand tornado in the direction it's facing.");
+i(<item:alexsmobs:fedora>, "Do bee do bee doo ba doo");
+i(<item:alexsmobs:capsid>, "Can drop from Enderiophages and used to transport items. Consult an Animal Dictionary for more information.");
