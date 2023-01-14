@@ -20,3 +20,5 @@ tag_banana.remove(<item:alexsmobs:banana>);
 
 var tag_dictionary_ingredient = <tag:items:alexsmobs:animal_dictionary_ingredient>;
 tag_dictionary_ingredient.remove(<item:alexsmobs:dropbear_claw>);
+
+craftingTable.removeByName("alexsmobs:flint_n_steel_dropbear_claw");
