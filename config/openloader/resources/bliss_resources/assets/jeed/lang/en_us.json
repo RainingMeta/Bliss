@@ -58,7 +58,9 @@
   "effect.alexsmobs.sunbird_blessing.description": "Decreases fall speed, prevents fall damage and makes it easier to fly with an Elytra or Tarantula Hawk Elytra. Effect is applied when near a Sunbird.",
   "effect.alexsmobs.sunbird_curse.description": "Increases fall speed, causing the user to hit the ground quicker. This effectively impedes the use of an Elytra. Effect is applied when attacking a Sunbird.",
   "effect.alexsmobs.tigers_blessing.description": "Tigers near the user will be neutral and will protect them from hostile foes. The effect will go away early when attacking a Tiger. Applied by feeding a Tiger chicken or pork chops.\n",
-
+  "effect.alexsmobs.earthquake.description": "Causes dripstone to fall around you. Effect is applied by a Rocky Roller.",
+  "effect.alexsmobs.fleet_footed.description": "Grants increased movement speed when running and jumping at the same time. Applied when giving Jerboas seeds.",
+  
   "effect.archers_paradox.challenge_complete.description": "Shows successful completion of a streak with challenge arrows.",
   "effect.archers_paradox.challenge_miss.description": "Shows failure to complete a streak with challenge arrows.",
   "effect.archers_paradox.challenge_streak.description": "Shows the current time limit and level of a challenge streak.",
