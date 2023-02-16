@@ -6,7 +6,6 @@ var book = <item:minecraft:book>;
 var glowstone_block = <item:minecraft:glowstone>;
 var glowstone_dust = <item:minecraft:glowstone_dust>;
 var bookshelves = <tag:items:bliss:bookshelves>;
-var brimstone = <item:biomesoplenty:brimstone>;
 var canvas = <item:farmersdelight:canvas>;
 var crop_tag = <tag:items:quark:seed_pouch_holdable>;
 var heart_of_the_sea = <item:minecraft:heart_of_the_sea>;
@@ -26,8 +25,6 @@ var sawmill = <item:corail_woodcutter:oak_woodcutter>;
 var slime = <item:minecraft:slime_ball>;
 var stick = <item:minecraft:stick>;
 var string_item = <item:minecraft:string>;
-var rose_quartz_block = <item:biomesoplenty:rose_quartz_block>;
-var rose_quartz_shard = <item:biomesoplenty:rose_quartz_shard>;
 var paper = <item:minecraft:paper>;
 var antique_ink = <item:supplementaries:antique_ink>;
 
@@ -41,7 +38,6 @@ craftingTable.remove(paraglider);
 craftingTable.removeByName("minecraft:painting");
 craftingTable.removeByName("minecraft:lead");
 craftingTable.removeByName("minecraft:scaffolding");
-craftingTable.removeByName("comforts:rope_and_nail");
 
 // Replace Rabbit Hide in recipes with Leather
 craftingTable.removeByName("quark:tools/crafting/seed_pouch");
@@ -227,14 +223,6 @@ craftingTable.addShaped("feather_bed",
 	<item:minecraft:white_bed>,
 	[[feathers, feathers, feathers],
 	[planks, planks, planks]]);
-craftingTable.addShaped("feather_sleeping_bag",
-	<item:comforts:sleeping_bag_white>,
-	[[feathers, feathers, feathers]]);
-craftingTable.addShaped("feather_hammock",
-	<item:comforts:hammock_white>,
-	[[string_item, stick, string_item],
-	[string_item, feathers, string_item],
-	[string_item, stick, string_item]]);
 
 // Craftable Name Tag
 craftingTable.addShapeless("da_name_tagy", <item:minecraft:name_tag>, [antique_ink, paper, string_item]);
