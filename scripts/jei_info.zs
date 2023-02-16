@@ -273,59 +273,7 @@ i(<item:minecraft:shulker_shell>, "Can be worn! Currently no options exist to ac
 i(<item:minecraft:bone_meal>, "Can be acquired non-lethally through Composting.");
 i(<item:minecraft:bone>, "No reliable options exist to acquire non-lethally. If you require them, consider looking for some structures, or making a skeleton mob farm.");
 
-s = "Can be used to skip the night wherever you are, without setting your respawn point.";
-i(<item:comforts:sleeping_bag_white>, s);
-i(<item:comforts:sleeping_bag_orange>, s);
-i(<item:comforts:sleeping_bag_magenta>, s);
-i(<item:comforts:sleeping_bag_light_blue>, s);
-i(<item:comforts:sleeping_bag_yellow>, s);
-i(<item:comforts:sleeping_bag_lime>, s);
-i(<item:comforts:sleeping_bag_pink>, s);
-i(<item:comforts:sleeping_bag_gray>, s);
-i(<item:comforts:sleeping_bag_light_gray>, s);
-i(<item:comforts:sleeping_bag_cyan>, s);
-i(<item:comforts:sleeping_bag_purple>, s);
-i(<item:comforts:sleeping_bag_blue>, s);
-i(<item:comforts:sleeping_bag_brown>, s);
-i(<item:comforts:sleeping_bag_green>, s);
-i(<item:comforts:sleeping_bag_red>, s);
-i(<item:comforts:sleeping_bag_black>, s);
-
-s = "Can be used to skip the day when placed down. Setting up a Hammock requires two blocks of Rope and Nail set four blocks apart on the same height, facing eachother.";
-i(<item:comforts:hammock_white>, s);
-i(<item:comforts:hammock_magenta>, s);
-i(<item:comforts:hammock_light_blue>, s);
-i(<item:comforts:hammock_yellow>, s);
-i(<item:comforts:hammock_lime>, s);
-i(<item:comforts:hammock_pink>, s);
-i(<item:comforts:hammock_gray>, s);
-i(<item:comforts:hammock_light_gray>, s);
-i(<item:comforts:hammock_cyan>, s);
-i(<item:comforts:hammock_purple>, s);
-i(<item:comforts:hammock_blue>, s);
-i(<item:comforts:hammock_brown>, s);
-i(<item:comforts:hammock_green>, s);
-i(<item:comforts:hammock_red>, s);
-i(<item:comforts:hammock_black>, s);
-
-i(<item:comforts:rope_and_nail>, "Can be used to prop up Hammocks.");
-
 s = "Can be used as a fence, with the same 1.5 block height property.";
-i(<item:compatoplenty:jacaranda_hedge>, s);
-i(<item:compatoplenty:fir_hedge>, s);
-i(<item:compatoplenty:redwood_hedge>, s);
-i(<item:compatoplenty:mahogany_hedge>, s);
-i(<item:compatoplenty:willow_hedge>, s);
-i(<item:compatoplenty:magic_hedge>, s);
-i(<item:compatoplenty:dead_hedge>, s);
-i(<item:compatoplenty:umbran_hedge>, s);
-i(<item:compatoplenty:palm_hedge>, s);
-i(<item:compatoplenty:flowering_oak_hedge>, s);
-i(<item:compatoplenty:origin_hedge>, s);
-i(<item:compatoplenty:rainbow_birch_hedge>, s);
-i(<item:compatoplenty:maple_hedge>, s);
-i(<item:compatoplenty:yellow_autumn_hedge>, s);
-i(<item:compatoplenty:orange_autumn_hedge>, s);
 i(<item:quark:oak_hedge>, s);
 i(<item:quark:birch_hedge>, s);
 i(<item:quark:spruce_hedge>, s);
@@ -415,21 +363,6 @@ i(<item:immersive_weathering:weathered_plate_iron_vertical_slab>, s);
 i(<item:immersive_weathering:rusted_plate_iron_vertical_slab>, s);
 
 s = "Leaf piles will build up over time below leaves that weren't directly placed by a player.";
-i(<item:immersive_weathering:biomesoplenty/redwood_leaf_pile>, s);
-i(<item:immersive_weathering:biomesoplenty/fir_leaf_pile>, s);
-i(<item:immersive_weathering:biomesoplenty/mahogany_leaf_pile>, s);
-i(<item:immersive_weathering:biomesoplenty/jacaranda_leaf_pile>, s);
-i(<item:immersive_weathering:biomesoplenty/palm_leaf_pile>, s);
-i(<item:immersive_weathering:biomesoplenty/willow_leaf_pile>, s);
-i(<item:immersive_weathering:biomesoplenty/dead_leaf_pile>, s);
-i(<item:immersive_weathering:biomesoplenty/magic_leaf_pile>, s);
-i(<item:immersive_weathering:biomesoplenty/umbran_leaf_pile>, s);
-i(<item:immersive_weathering:biomesoplenty/origin_leaf_pile>, s);
-i(<item:immersive_weathering:biomesoplenty/flowering_oak_leaf_pile>, s);
-i(<item:immersive_weathering:biomesoplenty/rainbow_birch_leaf_pile>, s);
-i(<item:immersive_weathering:biomesoplenty/yellow_autumn_leaf_pile>, s);
-i(<item:immersive_weathering:biomesoplenty/orange_autumn_leaf_pile>, s);
-i(<item:immersive_weathering:biomesoplenty/maple_leaf_pile>, s);
 i(<item:immersive_weathering:quark/blue_blossom_leaf_pile>, s);
 i(<item:immersive_weathering:quark/lavender_blossom_leaf_pile>, s);
 i(<item:immersive_weathering:quark/orange_blossom_leaf_pile>, s);
@@ -587,103 +520,6 @@ i(<item:corn_delight:wild_corn>, s);
 i(<item:corn_delight:corn>, s);
 i(<item:corn_delight:corn_seeds>, s);
 
-s = "Can be found in the rare Origin Valley biome. Pathfinder Maps to this biome can be bought from Cartographer villagers.";
-i(<item:biomesoplenty:origin_grass_block>, s);
-i(<item:biomesoplenty:rose>, s);
-i(<item:biomesoplenty:origin_sapling>, s);
-i(<item:biomesoplenty:origin_leaves>, s);
-
-s = "Can be found in the rare Tropics biome. Pathfinder Maps to this biome can be bought from Cartographer villagers.";
-i(<item:biomesoplenty:white_sand>, s);
-i(<item:biomesoplenty:palm_sapling>, s);
-i(<item:biomesoplenty:palm_leaves>, s);
-i(<item:biomesoplenty:palm_log>, s);
-
-s = "Can be found in the rare Rainbow Hills biome. Pathfinder Maps to this biome can be bought from Cartographer villagers.";
-i(<item:biomesoplenty:rainbow_birch_sapling>, s);
-i(<item:biomesoplenty:rainbow_birch_leaves>, s);
-
-s = "Can be found in the rare Mystic Grove biome. Pathfinder Maps to this biome can be bought from Cartographer villagers.";
-i(<item:biomesoplenty:magic_sapling>, s);
-i(<item:biomesoplenty:magic_leaves>, s);
-i(<item:biomesoplenty:magic_log>, s);
-
-s = "Can be found in the Erupting Inferno nether biome.";
-i(<item:biomesoplenty:brimstone>, s);
-i(<item:biomesoplenty:brimstone_fumarole>, s);
-
-s = "Can be found in the Crystalline Chasm nether biome.";
-i(<item:biomesoplenty:rose_quartz_block>, s);
-i(<item:biomesoplenty:rose_quartz_cluster>, s);
-
-s = "Can be found in the Withered Abyss nether biome.";
-i(<item:biomesoplenty:blackstone_bulb>, s);
-
-s = "Can be found in the Fungal Jungle biome. Pathfinder Maps to this biome can be bought from Cartographer villagers.";
-i(<item:biomesoplenty:toadstool>, s);
-i(<item:biomesoplenty:toadstool_block>, s);
-
-s = "Can be found in the Coniferous Forest biome. Pathfinder Maps to this biome can be bought from Cartographer villagers.";
-i(<item:biomesoplenty:fir_sapling>, s);
-i(<item:biomesoplenty:fir_leaves>, s);
-i(<item:biomesoplenty:fir_log>, s);
-
-s = "Can be found in the Redwood Forest biome. Pathfinder Maps to this biome can be bought from Cartographer villagers.";
-i(<item:biomesoplenty:redwood_sapling>, s);
-i(<item:biomesoplenty:redwood_leaves>, s);
-i(<item:biomesoplenty:redwood_log>, s);
-
-s = "Can be found in the Lavender Fields and Lavender Forest biomes. Pathfinder Maps to these biomes can be bought from Cartographer villagers.";
-i(<item:biomesoplenty:jacaranda_sapling>, s);
-i(<item:biomesoplenty:jacaranda_leaves>, s);
-i(<item:biomesoplenty:jacaranda_log>, s);
-
-s = "Can be found in the Ominous Woods biome. Pathfinder Maps to this biome can be bought from Cartographer villagers.";
-i(<item:biomesoplenty:dead_sapling>, s);
-i(<item:biomesoplenty:dead_log>, s);
-i(<item:biomesoplenty:dead_leaves>, s);
-i(<item:biomesoplenty:umbran_sapling>, s);
-i(<item:biomesoplenty:umbran_leaves>, s);
-i(<item:biomesoplenty:umbran_log>, s);
-i(<item:biomesoplenty:bramble>, s);
-i(<item:minecraft:wither_rose>, s);
-
-s = "Can be found in the Bayou biome. Pathfinder Maps to this biome can be bought from Cartographer villagers.";
-i(<item:biomesoplenty:willow_sapling>, s);
-i(<item:biomesoplenty:willow_leaves>, s);
-i(<item:biomesoplenty:willow_log>, s);
-i(<item:biomesoplenty:spanish_moss_plant>, s);
-i(<item:biomesoplenty:mud>, s + " Also spreads to nearby Dirt if in contact with water or in a Swamp or Bayou biome.");
-
-s = "Can be found in the Pasture biome.";
-i(<item:biomesoplenty:barley>, s);
-
-s = "Can be found in the Rainforest biome. Pathfinder Maps to this biome can be bought from Cartographer villagers.";
-i(<item:biomesoplenty:mahogany_sapling>, s);
-i(<item:biomesoplenty:mahogany_leaves>, s);
-i(<item:biomesoplenty:mahogany_log>, s);
-i(<item:biomesoplenty:flowering_oak_sapling>, s);
-i(<item:biomesoplenty:flowering_oak_leaves>, s);
-
-s = "Can be found in the Boreal Forest biome.";
-i(<item:biomesoplenty:yellow_autumn_sapling>, s);
-i(<item:biomesoplenty:yellow_autumn_leaves>, s);
-i(<item:biomesoplenty:orange_autumn_sapling>, s);
-i(<item:biomesoplenty:orange_autumn_leaves>, s);
-
-s = "Can be found in the Maple Woods biome.";
-i(<item:biomesoplenty:maple_sapling>, s);
-i(<item:biomesoplenty:maple_leaves>, s);
-
-s = "Can be found in the Volcano and Volcanic Plains biomes.";
-i(<item:biomesoplenty:black_sand>, s);
-
-s = "Can be found in the Lush Desert biome.";
-i(<item:biomesoplenty:orange_sand>, s);
-
-s = "Can be found in the Wasteland biome.";
-i(<item:biomesoplenty:dried_salt>, s);
-
 s = "The Caffeinated effect, upon being applied, resets your insomnia count, preventing Phantoms from spawning.";
 i(<item:farmersrespite:black_tea>, s);
 i(<item:farmersrespite:coffee>, s);
@@ -701,23 +537,9 @@ i(<item:farmersrespite:kettle>, "Can be used to brew Coffee and Tea.");
 i(<item:farmersrespite:coffee_berries>, "Can be found in Basalt Deltas. Can not be directly planted, but you can plant Coffee Beans instead.");
 i(<item:farmersrespite:coffee_beans>, "Can be found in Basalt Deltas and planted on Basalt and Magma. Once grown, harvest the branches with Shears. Normally, it can only grow in the Nether, but it can be made to grow in the Overworld by having an adjacent normal crop, which is consumed.");
 
-i(<item:biomesoplenty:rooted_sand>, "Does not generate naturally. Sand under Sea Oats slowly turns into this block.");
-i(<item:biomesoplenty:sea_oats>, "Can be found in the Dune Beach biome.");
-i(<item:biomesoplenty:music_disc_wanderer>, "Can be found on Wild Tower chests, uncommonly.");
-
 i(<item:minecraft:gravel>, "Can be generated renewably by placing Cobblestone at the top of a bubble column.");
 i(<item:minecraft:sand>, "Can be generated renewably by placing Sandstone at the top of a bubble column.");
 i(<item:minecraft:red_sand>, "Can be generated renewably by placing Red Sandstone at the top of a bubble column.");
-i(<item:biomesoplenty:black_sand>, "Can be generated renewably by placing Black Sandstone at the top of a bubble column.");
-i(<item:biomesoplenty:orange_sand>, "Can be generated renewably by placing Orange Sandstone at the top of a bubble column.");
-i(<item:biomesoplenty:white_sand>, "Can be generated renewably by placing White Sandstone at the top of a bubble column.");
-i(<item:minecraft:clay>, "Can be gotten by dehydrating a Mud block via placing Pointed Dripstone under it.");
-
-s = "Can be found in the Spider Nest biome underground.";
-i(<item:biomesoplenty:spider_egg>, s);
-i(<item:biomesoplenty:stringy_cobweb>, s);
-i(<item:biomesoplenty:hanging_cobweb>, s);
-i(<item:biomesoplenty:webbing>, s);
 
 i(<item:buzzier_bees:four_leaf_clover>, "Can be found in desert temples and jungle temples.");
 i(<item:buzzier_bees:endermite_bottle>, "Endermites can be bottled up.");
