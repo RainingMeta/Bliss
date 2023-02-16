@@ -124,9 +124,6 @@ CuttingBoard.addRecipeWithSound("yellow_glass_sharding", <item:quark:yellow_shar
 // Glowstone cuts into dust
 CuttingBoard.addRecipeWithSound("glowstone_dusting", glowstone_dust * 4, glowstone_block, pickaxes, glassBreak);
 
-// Rose Quartz decompress
-CuttingBoard.addRecipe("rose_sharding", rose_quartz_shard * 4, rose_quartz_block, pickaxes);
-
 // Compostable Overweight Crops
 composter.setValue(<item:overweight_farming:overweight_beetroot_block>, 1.0);
 composter.setValue(<item:overweight_farming:overweight_carrot_block>, 1.0);
