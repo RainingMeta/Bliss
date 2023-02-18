@@ -21,7 +21,6 @@ var planks = <tag:items:minecraft:planks>;
 var prismarine_shard = <item:minecraft:prismarine_shard>;
 var quartz = <item:minecraft:quartz>;
 var rotten_flesh = <item:minecraft:rotten_flesh>;
-var sawmill = <item:corail_woodcutter:oak_woodcutter>;
 var slime = <item:minecraft:slime_ball>;
 var stick = <item:minecraft:stick>;
 var string_item = <item:minecraft:string>;
@@ -75,11 +74,6 @@ craftingTable.addShaped("honey_sticky_piston",
 
 // Planks to Ash
 furnace.addRecipe("pl2ash", <item:supplementaries:ash>, planks, 0.0, 40);
-
-// Woodcutting oak to ladder
-Woodcutter.removeRecipe(ladder);
-Woodcutter.addRecipe("oak_ladder", ladder, oak_planks);
-Woodcutter.addRecipe("oak_ladder4", ladder * 4, oak_logs);
 
 // Any Planks for sawmill
 craftingTable.remove(sawmill);
@@ -233,14 +227,6 @@ craftingTable.addShapeless("harder_ender_eyes",
 	<item:minecraft:ender_eye>,
 	[<item:minecraft:ender_pearl>, <item:minecraft:blaze_powder>, <item:minecraft:prismarine_crystals>,
 		<item:minecraft:emerald>, <item:minecraft:amethyst_shard>, <item:minecraft:honeycomb>]);
-
-// Woodcutting Jungle Post Fix
-var jungle_logs = <tag:items:minecraft:jungle_logs>;
-var jungle_planks = <tag:items:forge:planks/jungle>;
-var jungle_post = <item:quark:jungle_post>;
-Woodcutter.removeRecipe(jungle_post);
-Woodcutter.addRecipe("jungle_posts", jungle_post, jungle_planks);
-Woodcutter.addRecipe("jungle_posts4", jungle_post * 4, jungle_logs);
 
 // Propelplant Torch Recipe Fix
 var propelpearl = <item:nethersdelight:propelpearl>;
