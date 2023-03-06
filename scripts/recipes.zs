@@ -234,3 +234,13 @@ craftingTable.addShaped("propelplant_torch",
 //Mimicarnation and Soul Soil Remove
 CuttingBoard.removeRecipe(<item:minecraft:crimson_fungus>);
 CuttingBoard.removeRecipe(<item:minecraft:warped_fungus>);
+
+//Atmospheric Saplings
+var aspen_sapling = <item:atmospheric:aspen_sapling>;
+var grimwood_sapling = <item:atmospheric:grimwood_sapling>;
+var kousa_sapling = <item:atmospheric:kousa_sapling>;
+var mimicream = <item:alexsmobs:mimicream>;
+
+craftingTable.addShapeless("kousa_mimicream", kousa_sapling, [mimicream, oak_sapling]);
+craftingTable.addShapeless("aspen_mimicream", aspen_sapling, [mimicream, birch_sapling]);
+craftingTable.addShapeless("grimwood_mimicream", grimwood_sapling, [mimicream, spruce_sapling]);
