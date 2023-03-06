@@ -757,3 +757,47 @@ i(<item:upgrade_aquatic:thrasher_tooth>, "Dropped by Thrashers. Find them deep u
 i(<item:upgrade_aquatic:elder_eye>, "Drops from Elder Guardians, detects mobs in front of it when enabled and sends a redstone signal.");
 i(<item:upgrade_aquatic:elder_guardian_spine>, "Drops from Elder Guardians, deals damage and mining fatigue to creatures in it when activated with redstone.");
 i(<item:upgrade_aquatic:guardian_spine>, "Drops from Guardians, deals damage to creatures in it when activated with redstone.");
+
+// Wood Types
+s = "This wood doesn't spawn naturally, you have to figure out how to make the Saplings.";
+i(<item:atmospheric:aspen_log>, s);
+i(<item:atmospheric:aspen_planks>, s);
+i(<item:atmospheric:grimwood_log>, s);
+i(<item:atmospheric:grimwood_planks>, s);
+i(<item:atmospheric:kousa_log>, s);
+i(<item:atmospheric:kousa_planks>, s);
+
+s = "This wood spawns in Rainforests.";
+i(<item:atmospheric:rosewood_log>, s);
+i(<item:atmospheric:rosewood_planks>, s);
+i(<item:atmospheric:morado_log>, s);
+i(<item:atmospheric:morado_planks>, s);
+
+s = "This wood spawns in Dunes.";
+i(<item:atmospheric:yucca_log>, s);
+i(<item:atmospheric:yucca_planks>, s);
+s = "This spawns alongside Yucca Trees in Dunes.";
+i(<item:atmospheric:yucca_branch>, s);
+i(<item:atmospheric:yucca_bundle>, s);
+i(<item:atmospheric:yucca_flower>, s);
+i(<item:atmospheric:yucca_fruit>, s);
+
+// Dunes Features
+s = "This spawns in Dunes.";
+i(<item:atmospheric:arid_sand>, s); 
+i(<item:atmospheric:arid_sandstone>, s);
+i(<item:atmospheric:red_arid_sandstone>, s);
+i(<item:atmospheric:barrel_cactus>, s);
+i(<item:atmospheric:aloe_kernels>, s);
+i(<item:atmospheric:aloe_leaves>, s);
+
+i(<item:atmospheric:arid_sand>, "This spawns in Dunes. Can also be acquired by making an upwards bubble column with Arid Sandstone directly above."); 
+i(<item:atmospheric:red_arid_sand>, "This spawns in Dunes. Can also be acquired by making an upwards bubble column with Red Arid Sandstone directly above.");
+
+// Rainforest Features
+s = "This spawns in Rainforests.";
+i(<item:atmospheric:passion_vine>, s);
+i(<item:atmospheric:passionfruit>, s);
+
+// Unique Functional Items
+i(<item:atmospheric:passion_vine_coil>, "Can be thrown. When it lands on a block, it drops down a vine you can climb.");
