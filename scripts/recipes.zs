@@ -239,6 +239,9 @@ CuttingBoard.removeRecipe(<item:minecraft:warped_fungus>);
 var aspen_sapling = <item:atmospheric:aspen_sapling>;
 var grimwood_sapling = <item:atmospheric:grimwood_sapling>;
 var kousa_sapling = <item:atmospheric:kousa_sapling>;
+var oak_sapling = <item:minecraft:oak_sapling>;
+var birch_sapling = <item:minecraft:birch_sapling>;
+var spruce_sapling = <item:minecraft:spruce_sapling>;
 var mimicream = <item:alexsmobs:mimicream>;
 
 craftingTable.addShapeless("kousa_mimicream", kousa_sapling, [mimicream, oak_sapling]);
