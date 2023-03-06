@@ -708,3 +708,52 @@ i(<item:alexsmobs:capsid>, "Can drop from Enderiophages and used to transport it
 
 i(<item:alexsmobs:music_disc_thime>, "Can be acquired from bartering with Seals. Consult an Animal Dictionary for more information.");
 i(<item:alexsmobs:music_disc_daze>, "Can be acquired by placing any Music Disc inside a Capsid.");
+
+// Coralstone
+s = "Put the respective coral block next to raw Coralstone and it'll propagate. Powering with redstone gives coral bits.";
+i(<item:upgrade_aquatic:acan_coralstone>, s);
+i(<item:upgrade_aquatic:brain_coralstone>, s);
+i(<item:upgrade_aquatic:branch_coralstone>, s);
+i(<item:upgrade_aquatic:bubble_coralstone>, s);
+i(<item:upgrade_aquatic:chrome_coralstone>, s);
+i(<item:upgrade_aquatic:dead_coralstone>, s);
+i(<item:upgrade_aquatic:elder_prismarine_coralstone>, s);
+i(<item:upgrade_aquatic:finger_coralstone>, s);
+i(<item:upgrade_aquatic:fire_coralstone>, s);
+i(<item:upgrade_aquatic:horn_coralstone>, s);
+i(<item:upgrade_aquatic:moss_coralstone>, s);
+i(<item:upgrade_aquatic:petal_coralstone>, s);
+i(<item:upgrade_aquatic:pillow_coralstone>, s);
+i(<item:upgrade_aquatic:prismarine_coralstone>, s);
+i(<item:upgrade_aquatic:rock_coralstone>, s);
+i(<item:upgrade_aquatic:silk_coralstone>, s);
+i(<item:upgrade_aquatic:star_coralstone>, s);
+i(<item:upgrade_aquatic:tube_coralstone>, s);
+
+s = "This wood spawns in watery areas and can be acquired by fishing. It does not have a sapling variation, so it's in limited supply.";
+i(<item:upgrade_aquatic:driftwood_log>, s);
+i(<item:upgrade_aquatic:driftwood_planks>, s);
+
+s = "This wood spawns in Rivers and Beaches.";
+i(<item:upgrade_aquatic:river_log>, s);
+i(<item:upgrade_aquatic:river_planks>, s);
+
+// Upgrade Aquatic Stuff
+s = "Spawns in Beaches";
+i(<item:upgrade_aquatic:beachgrass>, s);
+i(<item:upgrade_aquatic:tall_beachgrass>, s);
+
+i(<item:upgrade_aquatic:mulberry>, "Grows in river trees, can be farmed under river leaves."); 
+
+s = "Spawns in any body of water. Slows you down too.";
+i(<item:upgrade_aquatic:blue_pickerelweed>, s);
+i(<item:upgrade_aquatic:purple_pickerelweed>, s);
+
+s = "Like a wooden one, but automatically closes after a bit.";
+i(<item:upgrade_aquatic:tooth_door>, s);
+i(<item:upgrade_aquatic:tooth_trapdoor>, s);
+i(<item:upgrade_aquatic:thrasher_tooth>, "Dropped by Thrashers. Find them deep under cold and frozen oceans.");
+
+i(<item:upgrade_aquatic:elder_eye>, "Drops from Elder Guardians, detects mobs in front of it when enabled and sends a redstone signal.");
+i(<item:upgrade_aquatic:elder_guardian_spine>, "Drops from Elder Guardians, deals damage and mining fatigue to creatures in it when activated with redstone.");
+i(<item:upgrade_aquatic:guardian_spine>, "Drops from Guardians, deals damage to creatures in it when activated with redstone.");
