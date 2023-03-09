@@ -801,3 +801,47 @@ i(<item:atmospheric:passionfruit>, s);
 
 // Unique Functional Items
 i(<item:atmospheric:passion_vine_coil>, "Can be thrown. When it lands on a block, it drops down a vine you can climb.");
+
+s = "This wood spawns in Blossom Highlands.";
+i(<item:environmental:cherry_log>, s);
+i(<item:environmental:cherry_planks>, s);
+
+s = "This wood spawns in Swamps.";
+i(<item:environmental:willow_log>, s);
+i(<item:environmental:willow_planks>, s);
+
+s = "This wood spawns in Flower Forests.";
+i(<item:environmental:wisteria_log>, s);
+i(<item:environmental:wisteria_planks>, s);
+
+// Traveller's Armor
+i(<item:environmental:architect_belt>, "Part of the Traveller's Armor set. Can be bought by master level Masons, Carpenters, or Ceramists and leveled up with use.");
+i(<item:environmental:healer_pouch>, "Part of the Traveller's Armor set. Can be acquired via Piglin Bartering.");
+i(<item:environmental:thief_hood>, "Part of the Traveller's Armor set. Can be acquired rarely by killing Skeletons or Wither Skeletons and leveled up with use.");
+i(<item:environmental:wanderer_boots>, "Part of the Traveller's Armor set. Can be purchased from the Wandering Trader and leveled up with use.");
+
+// Random Environmental Stuff
+i(<item:environmental:yak_hair>, "Get this by shearing Yaks, which spawn in Mountains.");
+
+s = "Spawns in Swamps and Marshes.";
+i(<item:environmental:mud>, s);
+i(<item:environmental:mud_ball>, s);
+
+s = "Get this by bone mealing a Lily Pad.";
+i(<item:environmental:large_lily_pad>, s);
+i(<item:environmental:giant_lily_pad>, s);
+
+s = "Temporarily increases your maximum health when eaten.";
+i(<item:environmental:truffle_mash>, s);
+i(<item:environmental:truffle_pie>, s);
+
+i(<item:environmental:cattail_seeds>, "Get by right clicking grown Cattails. Can also be planted, but they'll only grow on farmland underwater.");
+i(<item:environmental:cherries>, "Can drop from Cherry Tree leaves like apples.");
+i(<item:environmental:slabfish_effigy>, "Can hold up to one item inside it, has no other purpose other than that and looking cool.");
+i(<item:environmental:truffle>, "Can be scavenged by Pigs by feeding them Golden Carrots.");
+
+i(<item:environmental:koi_bucket>, "When near a Koi fish, players are given a Serenity effect, which prevents nearby mob spawns. Find these fish in Blossom Highlands.");
+i(<item:environmental:slabfish_bucket>, "Slabfish can be found in Swamps and Marshes, and tamed using Tropical Fish.");
+
+i(<item:environmental:music_disc_leaving_home>, "Can be acquired by having a Skeleton kill a Wandering Trader.");
+i(<item:environmental:music_disc_slabrave>, "Can be acquired by giving another Music Disc to a Slabfish.");
