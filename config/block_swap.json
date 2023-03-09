@@ -1,0 +1,7 @@
+{
+  "swapper": {
+    "environmental:cherry_leaf_pile": "immersive_weathering:environmental/cherry_leaf_pile"
+  },
+  "state_swapper": [],
+  "retroGen": false
+}
