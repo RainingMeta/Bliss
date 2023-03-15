@@ -1,6 +1,8 @@
 {
   "swapper": {
-    "environmental:cherry_leaf_pile": "immersive_weathering:environmental/cherry_leaf_pile"
+    "environmental:cherry_leaf_pile": "immersive_weathering:environmental/cherry_leaf_pile",
+    "autumnity:orange_maple_leaf_pile": "immersive_weathering:autumnity/orange_maple_leaf_pile",
+    "autumnity:yellow_maple_leaf_pile": "immersive_weathering:autumnity/yellow_maple_leaf_pile"
   },
   "state_swapper": [],
   "retroGen": false
