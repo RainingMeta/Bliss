@@ -432,6 +432,18 @@ public class DisabledItems {
 		<item:environmental:duck_spawn_egg>,
 		<item:environmental:koi_spawn_egg>,
 		<item:environmental:slabfish_spawn_egg>,
-		<item:environmental:yak_spawn_egg>
+		<item:environmental:yak_spawn_egg>,
+		<item:immersive_weathering:autumnity/maple_bark>,
+		<item:autumnity:maple_boards>,
+		<item:autumnity:maple_leaf_pile>,
+		<item:autumnity:maple_leaf_carpet>,
+		<item:autumnity:yellow_maple_leaf_pile>,
+		<item:autumnity:yellow_maple_leaf_carpet>,
+		<item:autumnity:orange_maple_leaf_pile>,
+		<item:autumnity:orange_maple_leaf_carpet>,
+		<item:autumnity:red_maple_leaf_pile>,
+		<item:autumnity:red_maple_leaf_carpet>,
+		<item:autumnity:snail_spawn_egg>,
+		<item:autumnity:turkey_spawn_egg>
 	] as IItemStack[];
 }
