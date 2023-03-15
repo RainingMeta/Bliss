@@ -815,7 +815,7 @@ i(<item:environmental:wisteria_log>, s);
 i(<item:environmental:wisteria_planks>, s);
 
 // Traveller's Armor
-i(<item:environmental:architect_belt>, "Part of the Traveller's Armor set. Can be bought by master level Masons, Carpenters, or Ceramists and leveled up with use.");
+i(<item:environmental:architect_belt>, "Part of the Traveller's Armor set. Can be bought by master level Masons and leveled up with use.");
 i(<item:environmental:healer_pouch>, "Part of the Traveller's Armor set. Can be acquired via Piglin Bartering.");
 i(<item:environmental:thief_hood>, "Part of the Traveller's Armor set. Can be acquired rarely by killing Skeletons or Wither Skeletons and leveled up with use.");
 i(<item:environmental:wanderer_boots>, "Part of the Traveller's Armor set. Can be purchased from the Wandering Trader and leveled up with use.");
@@ -845,3 +845,21 @@ i(<item:environmental:slabfish_bucket>, "Slabfish can be found in Swamps and Mar
 
 i(<item:environmental:music_disc_leaving_home>, "Can be acquired by having a Skeleton kill a Wandering Trader.");
 i(<item:environmental:music_disc_slabrave>, "Can be acquired by giving another Music Disc to a Slabfish.");
+
+s = "This wood spawns in Maple Forests.";
+i(<item:autumnity:maple_log>, s);
+i(<item:autumnity:maple_planks>, s);
+
+// Maple Forest Features
+s = "This spawns in Maple Forests.";
+i(<item:autumnity:foul_berries>, s);
+i(<item:autumnity:foul_berry_pips>, s);
+
+s = "Sourced from Snails, which spawn in Maple Forests.";
+i(<item:autumnity:snail_shell_piece>, s);
+i(<item:autumnity:snail_slime>, s);
+
+s = "Sourced from Turkeys, which spawn in Maple Forests.";
+i(<item:autumnity:turkey>, s);
+i(<item:autumnity:turkey_egg>, s);
+i(<item:autumnity:turkey_piece>, s);
