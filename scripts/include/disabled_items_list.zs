@@ -444,6 +444,7 @@ public class DisabledItems {
 		<item:autumnity:red_maple_leaf_pile>,
 		<item:autumnity:red_maple_leaf_carpet>,
 		<item:autumnity:snail_spawn_egg>,
-		<item:autumnity:turkey_spawn_egg>
+		<item:autumnity:turkey_spawn_egg>,
+		<item:autumnity:pancake>
 	] as IItemStack[];
 }
