@@ -857,7 +857,7 @@ i(<item:autumnity:foul_berry_pips>, s);
 
 s = "Sourced from Snails, which spawn in Maple Forests.";
 i(<item:autumnity:snail_shell_piece>, s);
-i(<item:autumnity:snail_slime>, s);
+i(<item:autumnity:snail_goo>, s);
 
 s = "Sourced from Turkeys, which spawn in Maple Forests.";
 i(<item:autumnity:turkey>, s);
