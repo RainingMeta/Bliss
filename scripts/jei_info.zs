@@ -862,3 +862,5 @@ s = "Sourced from Turkeys, which spawn in Maple Forests.";
 i(<item:autumnity:turkey>, s);
 i(<item:autumnity:turkey_egg>, s);
 i(<item:autumnity:turkey_piece>, s);
+
+i(<item:antiqueatlas:empty_antique_atlas>, "Works as a sort of map that catalogues where you go. Definitely a must have if you're going exploring!");
