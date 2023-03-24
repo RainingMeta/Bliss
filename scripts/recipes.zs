@@ -247,3 +247,12 @@ var mimicream = <item:alexsmobs:mimicream>;
 craftingTable.addShapeless("kousa_mimicream", kousa_sapling, [mimicream, oak_sapling]);
 craftingTable.addShapeless("aspen_mimicream", aspen_sapling, [mimicream, birch_sapling]);
 craftingTable.addShapeless("grimwood_mimicream", grimwood_sapling, [mimicream, spruce_sapling]);
+
+//Deed of Ownership
+var name = <item:minecraft:name_tag>;
+
+craftingTable.addShaped("deed",
+	<item:domesticationinnovation:deed_of_ownership>,
+	[[paper, paper, paper],
+	[paper, name, paper],
+	[paper, paper, paper]]);
