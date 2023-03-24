@@ -864,3 +864,26 @@ i(<item:autumnity:turkey_egg>, s);
 i(<item:autumnity:turkey_piece>, s);
 
 i(<item:antiqueatlas:empty_antique_atlas>, "Works as a sort of map that catalogues where you go. Definitely a must have if you're going exploring!");
+
+//Domestication Innovation
+s = "Can be used to set a spawn point for pets. Make them sit on top of the bed until ZZZ particles appear. If the pet dies, it will respawn there at dawn. To remove the spawn point, break the bed.";
+i(<item:domesticationinnovation:pet_bed_white>, s); 
+i(<item:domesticationinnovation:pet_bed_orange>, s); 
+i(<item:domesticationinnovation:pet_bed_magenta>, s); 
+i(<item:domesticationinnovation:pet_bed_light_blue>, s); 
+i(<item:domesticationinnovation:pet_bed_yellow>, s); 
+i(<item:domesticationinnovation:pet_bed_lime>, s); 
+i(<item:domesticationinnovation:pet_bed_pink>, s); 
+i(<item:domesticationinnovation:pet_bed_gray>, s); 
+i(<item:domesticationinnovation:pet_bed_light_gray>, s); 
+i(<item:domesticationinnovation:pet_bed_cyan>, s); 
+i(<item:domesticationinnovation:pet_bed_purple>, s); 
+i(<item:domesticationinnovation:pet_bed_blue>, s); 
+i(<item:domesticationinnovation:pet_bed_brown>, s); 
+i(<item:domesticationinnovation:pet_bed_green>, s); 
+i(<item:domesticationinnovation:pet_bed_red>, s); 
+i(<item:domesticationinnovation:pet_bed_black>, s); 
+
+i(<item:domesticationinnovation:feather_on_a_stick>, "Can be used to lure pets onto specific locations.");
+
+i(<item:domesticationinnovation:deed_of_ownership>, "Can be used to give ownership of pets to other players. Right-click the chosen pet to bind it to the deed, and when the new owner right-clicks on the pet again, ownership is transferred.");
