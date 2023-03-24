@@ -9,6 +9,10 @@
 						{
 							"lvl": 1,
 							"id": "minecraft:unbreaking"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:health_boost"
 						}
 					]
 				}
@@ -26,6 +30,10 @@
 						{
 							"lvl": 1,
 							"id": "minecraft:fire_protection"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:fireproof"
 						}
 					]
 				}
@@ -47,6 +55,14 @@
 						{
 							"lvl": 1,
 							"id": "minecraft:punch"
+						},
+						{
+							"lvl": 1,
+							"id": "allurement:launch"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:frost_fang"
 						}
 					]
 				}
@@ -64,6 +80,14 @@
 						{
 							"lvl": 1,
 							"id": "minecraft:feather_falling"
+						},
+						{
+							"lvl": 1,
+							"id": "allurement:reeeling"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:tethered_teleport"
 						}
 					]
 				}
@@ -106,6 +130,14 @@
 						{
 							"lvl": 1,
 							"id": "minecraft:blast_protection"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:poison_resistance"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:defusal"
 						}
 					]
 				}
@@ -127,6 +159,14 @@
 						{
 							"lvl": 1,
 							"id": "minecraft:channeling"
+						},
+						{
+							"lvl": 1,
+							"id": "allurement:vengeance"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:health_siphon"
 						}
 					]
 				}
@@ -143,7 +183,11 @@
 					"Enchantments": [
 						{
 							"lvl": 1,
-							"id": "farmersdelight:backstabbing"
+							"id": "minecraft:bane_of_arthropods"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:herding"
 						}
 					]
 				}
@@ -161,6 +205,10 @@
 						{
 							"lvl": 1,
 							"id": "minecraft:protection"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:immunity_frame"
 						}
 					]
 				}
@@ -186,6 +234,10 @@
 						{
 							"lvl": 1,
 							"id": "minecraft:infinity"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:amphibious"
 						}
 					]
 				}
@@ -207,6 +259,14 @@
 						{
 							"lvl": 1,
 							"id": "minecraft:multishot"
+						},
+						{
+							"lvl": 1,
+							"id": "farmersdelight:backstabbing"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:warping_bite"
 						}
 					]
 				}
@@ -245,6 +305,10 @@
 						{
 							"lvl": 1,
 							"id": "minecraft:quick_charge"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:speedster"
 						}
 					]
 				}
@@ -270,6 +334,10 @@
 						{
 							"lvl": 1,
 							"id": "minecraft:riptide"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:chain_lightning"
 						}
 					]
 				}
@@ -291,6 +359,10 @@
 						{
 							"lvl": 1,
 							"id": "minecraft:piercing"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:gluttonous"
 						}
 					]
 				}
@@ -312,6 +384,14 @@
 						{
 							"lvl": 1,
 							"id": "minecraft:flame"
+						},
+						{
+							"lvl": 1,
+							"id": "allurement:shockwave"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:intimidation"
 						}
 					]
 				}
@@ -333,6 +413,10 @@
 						{
 							"lvl": 1,
 							"id": "minecraft:projectile_protection"
+						},
+						{
+							"lvl": 1,
+							"id": "domesticationinnovation:deflection"
 						}
 					]
 				}
