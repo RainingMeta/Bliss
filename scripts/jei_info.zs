@@ -891,3 +891,5 @@ i(<item:domesticationinnovation:deed_of_ownership>, "Can be used to give ownersh
 i(<item:domesticationinnovation:drum>, "Can be used to give commands to all of the owner's pets at once, depending on the beat. If given a redstone signal, it will command the pets of the original placer of the drum.");
 
 i(<item:domesticationinnovation:collar_tag>, "If given pet enchantments, can be attached to pets to give them the enchantment abilities. Can also be named in an anvil to act like a name tag.");
+
+i(<item:labels:label>, "Can be attached to the side of any block, and does not block interaction. Items can be used to draw icons. Dyes and glow ink sacs can also be used.");
