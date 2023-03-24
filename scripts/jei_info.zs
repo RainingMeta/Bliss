@@ -887,3 +887,7 @@ i(<item:domesticationinnovation:pet_bed_black>, s);
 i(<item:domesticationinnovation:feather_on_a_stick>, "Can be used to lure pets onto specific locations.");
 
 i(<item:domesticationinnovation:deed_of_ownership>, "Can be used to give ownership of pets to other players. Right-click the chosen pet to bind it to the deed, and when the new owner right-clicks on the pet again, ownership is transferred.");
+
+i(<item:domesticationinnovation:drum>, "Can be used to give commands to all of the owner's pets at once, depending on the beat. If given a redstone signal, it will command the pets of the original placer of the drum.");
+
+i(<item:domesticationinnovation:collar_tag>, "If given pet enchantments, can be attached to pets to give them the enchantment abilities. Can also be named in an anvil to act like a name tag.");
