@@ -865,7 +865,7 @@ i(<item:autumnity:turkey_piece>, s);
 
 i(<item:antiqueatlas:empty_antique_atlas>, "Works as a sort of map that catalogues where you go. Definitely a must have if you're going exploring!");
 
-//Domestication Innovation
+// Domestication Innovation
 s = "Can be used to set a spawn point for pets. Make them sit on top of the bed until ZZZ particles appear. If the pet dies, it will respawn there at dawn. To remove the spawn point, break the bed.";
 i(<item:domesticationinnovation:pet_bed_white>, s); 
 i(<item:domesticationinnovation:pet_bed_orange>, s); 
