@@ -506,7 +506,7 @@ i(<item:supplementaries:cog_block>, "Works just as redstone dust, up to 14 block
 i(<item:supplementaries:lock_block>, "Can be locked with a Key. If the correct key is in your inventory, it'll open.");
 i(<item:supplementaries:bomb_blue>, "Just like a Bomb, but stronger and with a slight delay to explosion. Can only be found in structure chests.");
 i(<item:supplementaries:bubble_blower>, "Used to blow bubbles at your friends for fun. If enchanted with Stasis, can place Soap Bubble blocks.");
-i(<item:supplementaries:antique_ink>, "Can be used to make Signs, Maps, or Globes have a fancy antique look. Can be found in Urns.");
+i(<item:supplementaries:antique_ink>, "Can be used to make Signs, Maps, or Globes have a fancy antique look. Can be found in Urns or as treasure when fishing.");
 
 s = "Flax can spawn on sand next to water on hot biomes, like beaches or deserts.";
 i(<item:supplementaries:wild_flax>, s);
